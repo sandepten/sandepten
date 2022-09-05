@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandepten
 - 👀 I’m interested in full stack web development and solving problems with programming
-- 🌱 I’m currently learning react
+- 🌱 I’m a MERN stack developer and a C++ Developer
 - 💞️ I’m looking to collaborate on all the amazing projects I can find
 <!---
 sandepten/sandepten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
