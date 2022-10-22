@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Tech enthusiast)`**
 
-Hi there 👋🏼 welcome to my GitHub! I am a full stack developer, C++ & python developer. I am passionate about building scalable and maintainable backends and beautiful frontends. I am also a tech enthusiast and love to learn new technologies. I am a big fan of open source and I'm learning to contribute to the community.
+Hi there 👋🏼 welcome to my GitHub! I am a full stack web developer, C++ & python developer. I am passionate about building scalable and maintainable backends and beautiful frontends. I am also a tech enthusiast and love to learn new technologies. I am a big fan of open source and I'm learning to contribute to the community.
 
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer working on a PC"/>
