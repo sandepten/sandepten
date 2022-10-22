@@ -8,18 +8,19 @@ Hi there 👋🏼 welcome to my GitHub! I am a full stack developer, C++ & pytho
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer working on a PC"/>
 </p>
 
-<!-- - 👋 Hi, I’m @sandepten
-- 👀 I’m interested in full stack web development and solving problems with programming
-- 🌱 I’m a MERN stack developer and a C++ Developer
-- 💞️ I’m looking to collaborate on all the amazing projects I can find -->
-<br/>
-<h4>My Skills 🚀</h4>
+---
+
+## My Skills 🚀
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql,django,firebase,googlecloud,linux,redux,git,github,docker,cpp,python,vscode,vercel,prisma,md," />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql,django,firebase,googlecloud,linux,redux,git,github,docker,cpp,python,vscode,vercel,prisma,md&perline=9" />
   </a>
 </p>
-<h4>Where to find me 🌎</h4>
+
+#
+
+## Where to find me 🌎
 
 <div>
     <a href="https://www.linkedin.com/in/sandepten/">
