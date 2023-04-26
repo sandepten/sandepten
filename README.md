@@ -25,7 +25,7 @@ Hi there 👋🏼 welcome to my GitHub! I am a full stack web developer, C++ & p
 
 ## Where to find me 🌎
 
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/sandepten/">
         <img src="https://img.shields.io/badge/-Sandeep%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
     </a>
