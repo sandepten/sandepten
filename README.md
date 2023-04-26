@@ -14,7 +14,7 @@ Hi there 👋🏼 welcome to my GitHub! I am a full stack web developer, C++ & p
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql,astro,scss,solidjs,svelte,supabase,vite,jest,django,firebase,googlecloud,linux,redux,git,github,docker,bash,bootstrap,deno,discord,rust,graphql,linux,nestjs,postman,java,cpp,python,vscode,vercel,prisma,md&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,nodejs,express,mongodb,mysql,postgresql,astro,scss,solidjs,svelte,supabase,vite,jest,django,firebase,googlecloud,linux,redux,git,github,docker,bash,bootstrap,deno,discord,rust,graphql,nestjs,postman,java,cpp,python,vscode,vercel,prisma,md&perline=11" />
   </a>
 </p>
 
