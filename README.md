@@ -18,7 +18,10 @@ Hi there 👋🏼 welcome to my GitHub! I am a full stack web developer, C++ & p
   </a>
 </p>
 
-#
+## My Streaks and contributions 🔥
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandepten&" alt="14pankajkumar" /></p>
+
 
 ## Where to find me 🌎
 
@@ -32,8 +35,8 @@ Hi there 👋🏼 welcome to my GitHub! I am a full stack web developer, C++ & p
     <a href="https://www.instagram.com/sandepten1/">
         <img src="https://img.shields.io/badge/-@sandepten1-E4405F?style=flat&logo=Instagram&logoColor=white"/>
     </a>
-    <a href="https://www.gmail.com/">
-        <img src="https://img.shields.io/badge/-sandeep.130601@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <a href="mailto:sandepten+github@gmail.com">
+        <img src="https://img.shields.io/badge/-sandepten@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
     </a>
 </div>
 <!-- My GitHub Stats:
