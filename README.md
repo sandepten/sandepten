@@ -32,9 +32,6 @@ Hi there 👋🏼 welcome to my GitHub! I am a full stack web developer, C++ & p
     <a href="https://twitter.com/sandepten">
         <img src="https://img.shields.io/badge/-@sandepten-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
     </a>
-    <a href="https://www.instagram.com/sandepten1/">
-        <img src="https://img.shields.io/badge/-@sandepten1-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
     <a href="mailto:sandepten+github@gmail.com">
         <img src="https://img.shields.io/badge/-sandepten@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
     </a>
