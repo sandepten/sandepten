@@ -2,26 +2,23 @@
 
 **`Digital Craftsman (Developer/Tech enthusiast)`**
 
-Hi there 👋🏼 welcome to my GitHub! I am a full stack web developer, C++ & python developer. I am passionate about building scalable and maintainable backends and beautiful frontends. I am also a tech enthusiast and love to learn new technologies. I am a big fan of open source and I'm learning to contribute to the community.
+Hello there! 👋 I'm a full-stack web developer with expertise in JavaScript and Golang. I'm passionate about building scalable and maintainable backends, as well as creating beautiful frontends. I'm always eager to learn new technologies and I'm a big fan of open source. Currently, I'm working on contributing to the community and making a positive impact. Let's connect and build something amazing together! 😄
 
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer working on a PC"/>
 </p>
 
----
-
 ## My Skills 🚀
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,golang,nodejs,express,mongodb,mysql,postgresql,astro,scss,solidjs,svelte,supabase,vite,jest,django,firebase,googlecloud,linux,redux,git,github,docker,bash,bootstrap,deno,discord,rust,graphql,nestjs,postman,java,cpp,python,vscode,vercel,prisma,md&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,golang,nodejs,express,mongodb,mysql,postgresql,astro,scss,solidjs,svelte,aws,supabase,vite,jest,django,firebase,gcp,linux,redux,git,github,gitlab,docker,bash,bootstrap,deno,rust,graphql,nestjs,postman,dynamodb,java,cpp,python,vscode,vercel,prisma,materialui,md,kafka,neovim,lua,nginx,planetscale,sequelize&perline=11" />
   </a>
 </p>
 
 ## My Streaks and contributions 🔥
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandepten&" alt="14pankajkumar" /></p>
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandepten&" alt="sandepten" /></p>
 
 ## Where to find me 🌎
 
