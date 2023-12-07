@@ -16,9 +16,11 @@ Hello there! 👋 I'm a full-stack web developer with expertise in JavaScript an
   </a>
 </p>
 
-## My Streaks and contributions 🔥
+## My GitHub Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandepten&" alt="sandepten" /></p>
+<div align="center">
+<a href="http://www.github.com/sandepten"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandepten&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 
 ## Where to find me 🌎
 
@@ -33,10 +35,3 @@ Hello there! 👋 I'm a full-stack web developer with expertise in JavaScript an
         <img src="https://img.shields.io/badge/-sandepten@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
     </a>
 </div>
-<!-- My GitHub Stats:
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandepten&show_icons=true&theme=gotham" alt="sandeepkumar" /> -->
-<!---
-sandepten/sandepten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
