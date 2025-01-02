@@ -2,7 +2,19 @@
 
 **`Digital Craftsman (Developer/Tech enthusiast)`**
 
-Hello there! 👋 I'm a full-stack web developer with expertise in JavaScript and Golang. I'm passionate about building scalable and maintainable backends, as well as creating beautiful frontends. I'm always eager to learn new technologies and I'm a big fan of open source. Currently, I'm working on contributing to the community and making a positive impact. Let's connect and build something amazing together! 😄
+Hi there! 👋
+
+I’m a full-stack web developer with expertise in JavaScript, TypeScript, and Golang. I’m passionate about crafting scalable and maintainable backends while delivering beautiful frontends.
+
+💡 What I love:
+• Exploring and building with the T3 stack by Theo.
+• Contributing to open source projects.
+• Learning and experimenting with cutting-edge technologies.
+
+🌟 My mission:
+Contribute to the community, collaborate on impactful projects, and make a positive difference through technology.
+
+Let’s connect and create something amazing together! 😄
 
 <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer working on a PC"/>
@@ -12,7 +24,7 @@ Hello there! 👋 I'm a full-stack web developer with expertise in JavaScript an
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,golang,nodejs,express,mongodb,mysql,postgresql,astro,scss,solidjs,svelte,aws,supabase,vite,jest,django,firebase,gcp,linux,redux,git,github,gitlab,docker,bash,bootstrap,deno,rust,graphql,nestjs,postman,dynamodb,java,cpp,python,vscode,vercel,prisma,materialui,md,kafka,neovim,lua,nginx,planetscale,sequelize&perline=11" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,typescript,go,nodejs,npm,express,mongodb,mysql,postgresql,astro,scss,solidjs,svelte,aws,supabase,vite,jest,django,firebase,gcp,linux,redux,git,github,gitlab,docker,bash,bootstrap,deno,rust,graphql,nestjs,postman,dynamodb,java,python,vercel,prisma,md,kafka,neovim,lua,nginx,angular,bun,cypress,debian,kubernetes,elasticsearch,obsidian,pnpm,redis,spring&perline=11" />
   </a>
 </p>
 
