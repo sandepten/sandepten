@@ -24,38 +24,81 @@ I'm a passionate full-stack developer who believes in crafting clean, efficient,
 
 ## 🛠️ Technology Stack
 
-<details>
-<summary>Frontend Development</summary>
+### Languages
 
-- **Frameworks:** React, Next.js, Solid.js, Svelte, Angular
-- **Styling:** Tailwind CSS, SCSS, Bootstrap
-- **State Management:** Redux, Zustand
-- **Build Tools:** Vite, Webpack
-- **Testing:** Jest, Cypress
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,go,python,java" />
+  </a>
+</p>
 
-</details>
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<details>
-<summary>Backend Development</summary>
+### Frontend
 
-- **Languages:** Node.js, Golang, Python, Java
-- **Frameworks:** Express, NestJS, Django, Spring
-- **Databases:** MongoDB, PostgreSQL, MySQL, Redis
-- **Message Brokers:** Kafka
-- **APIs:** REST, GraphQL
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,scss" />
+  </a>
+</p>
 
-</details>
+- ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+- ![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-<details>
-<summary>DevOps & Cloud</summary>
+### Backend & Database
 
-- **Cloud Platforms:** AWS, GCP, Firebase
-- **Containers:** Docker, Kubernetes
-- **CI/CD:** GitHub Actions, GitLab CI
-- **Monitoring:** Elasticsearch
-- **Web Servers:** Nginx
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,postgres,mongodb,redis" />
+  </a>
+</p>
 
-</details>
+- ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Cloud
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,github,gitlab" />
+  </a>
+</p>
+
+- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### Tools & Environment
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,postman,git,linux" />
+  </a>
+</p>
+
+- ![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Analytics
 
@@ -64,12 +107,6 @@ I'm a passionate full-stack developer who believes in crafting clean, efficient,
   
   <img src="https://github-readme-stats.vercel.app/api?username=sandepten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
-
-## 🏆 Recent Achievements
-
-- 🌟 Contributed to [Project Name] with over 100+ stars
-- 🎯 Built a high-performance microservice handling 1M+ requests/day
-- 📚 Published technical articles reaching 10K+ developers
 
 ## 🤝 Let's Connect
 
