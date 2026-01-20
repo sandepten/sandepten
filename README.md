@@ -67,10 +67,10 @@ I'm a passionate full-stack developer who believes in crafting clean, efficient,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandepten&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sandepten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=sandepten&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandepten&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ## 🤝 Let's Connect
 
