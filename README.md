@@ -12,25 +12,31 @@ Code lover, problem solver, professional deleter of busywork. If a human has to 
 
 ## 🧩 Problems I've had fun with
 
-### 🗑️ Deleting busywork
+**🗑️ Deleting busywork**
 
-Built a cloud SDK that provisions IPs and subnets automatically for enterprise customers. It quietly saves **~100 hours of manual ops every week** and made delivery cycles 20% faster. Automated smart contract testing and deployment too, which took releases from **days to hours**. My favorite code is the kind that lets people log off.
+- Cloud SDK auto-provisioning IPs & subnets → **~100 ops hours/week saved**, delivery cycles 20% faster
+- Smart contract test + deploy automation → releases **days → hours**
 
-### 🏗️ Platforms other engineers build on
+**🏗️ Platforms engineers build on**
 
-Helped build a large internal developer platform on Backstage, Kubernetes, and Azure. Wrote a Go CLI that containersizes services, cutting onboarding time **in half for 100+ engineers**. Less time reading setup docs, more time shipping.
+- Internal dev platform on Backstage, Kubernetes & Azure
+- Go CLI that containersizes services → onboarding **halved for 100+ engineers**
 
-### ⚡ Making things embarrassingly fast
+**⚡ Making things embarrassingly fast**
 
-Tuned APIs to run **75% faster** with indexing and caching. Rebuilt CI/CD pipelines for **90% quicker deploys**. Wired biometric attendance devices and Salesforce into a Go cron system and watched production incidents drop **99%**. Speed is a feature, latency is a bug.
+- Indexing + caching → APIs **75% faster**
+- CI/CD rebuild → deploys **90% quicker**
+- Biometric devices + Salesforce wired into a Go cron system → production incidents **down 99%**
 
-### 🔁 Event-driven everything
+**🔁 Event-driven everything**
 
-Designed a RabbitMQ-powered workflow replication engine that made pipeline failures a thing of the past. Built real-time dashboards streaming mint volume and gas fees off WebSocket events. Queues, listeners, retries. Chaos tamed with async.
+- RabbitMQ workflow replication engine → pipeline failures gone
+- Live dashboards streaming mint volume & gas fees off WebSocket events
 
-### 📊 Observability or it didn't happen
+**📊 Observability or it didn't happen**
 
-Orchestrated microservices with Camunda BPM and threaded distributed tracing through them with millisecond precision views. Prometheus, Grafana, trace IDs everywhere. Debugging without logs is just guessing with extra steps.
+- Camunda BPM microservices with distributed tracing at millisecond precision
+- Prometheus, Grafana, trace IDs everywhere
 
 ## 🗺️ Where I've been
 
